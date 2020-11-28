@@ -1,0 +1,18 @@
+{
+  "name": "@micro-ux-examples/react-basic",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private": true,
+  "license": "MIT",
+  "repository": "git@github.com:micro-ux/micro-ux-examples.git",
+  "author": "Nischith BM <nischithbm@gmail.com>",
+  "scripts": {
+    "start": "lerna run --parallel start",
+    "build": "lerna run build",
+    "serve": "lerna run --parallel serve",
+    "clean": "lerna run --parallel clean"
+  },
+  "devDependencies": {
+    "lerna": "3.22.1"
+  }
+}

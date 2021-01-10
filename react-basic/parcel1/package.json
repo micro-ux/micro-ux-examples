@@ -21,6 +21,6 @@
   "dependencies": {
     "react": "16.14.0",
     "react-dom": "16.14.0",
-    "moment": "2.24.0"
+    "moment": "2.29.1"
   }
 }
